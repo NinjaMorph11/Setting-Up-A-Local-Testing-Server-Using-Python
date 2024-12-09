@@ -1,0 +1,15 @@
+HOW TO SET UP A LOCAL TESTING SERVER USING PYTHON
+
+1st Step: Check if Python is installed
+
+Code: python -V
+
+2nd Step: Navigate to the directory you want to run the server
+
+Code: cd Downloads
+
+3rd Step: Start up the server in that directory
+
+Code: python -m http.server
+
+4th Step: Server is running and you may type "localhost:8000" in your browser to see the directory through HTML.
